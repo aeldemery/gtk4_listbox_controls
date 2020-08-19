@@ -1,0 +1,7 @@
+data/github.aeldemery.gtk4_listbox_controls.desktop.in
+data/github.aeldemery.gtk4_listbox_controls.appdata.xml.in
+data/github.aeldemery.gtk4_listbox_controls.gschema.xml
+src/window.ui
+src/main.vala
+src/window.vala
+

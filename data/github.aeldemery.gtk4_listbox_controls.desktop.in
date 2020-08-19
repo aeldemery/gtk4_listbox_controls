@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=gtk4_listbox_controls
+Exec=gtk4_listbox_controls
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
