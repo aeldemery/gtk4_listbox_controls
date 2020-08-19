@@ -29,4 +29,4 @@ or open it in Gnome-builder
 
 ## Screenshot <a name = "screenshot"></a>
 
-![Screenshot](https://github.com/aeldemery/gtk4_listbox_controls/blob/master/Screenshot%201.gif)
+![Screenshot](https://github.com/aeldemery/gtk4_listbox_controls/blob/master/Screenshot%201.png)
