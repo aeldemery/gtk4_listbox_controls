@@ -5,7 +5,7 @@ gtk4_listbox_controls_sources = [
 
 gtk4_listbox_controls_deps = [
   dependency('gio-2.0', version: '>= 2.50'),
-  dependency('gtk4', version: '>= 3.99'),
+  dependency('gtk4', version: '>= 4.0.0'),
 ]
 
 gnome = import('gnome')
